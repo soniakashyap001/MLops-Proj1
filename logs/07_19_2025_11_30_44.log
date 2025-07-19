@@ -1,0 +1,166 @@
+[ 2025-07-19 11:30:45,690 ] asyncio - DEBUG - Using selector: KqueueSelector
+[ 2025-07-19 11:31:18,896 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,896 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[0:6]
+[ 2025-07-19 11:31:18,896 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[7:8]
+[ 2025-07-19 11:31:18,896 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,896 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,896 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[9:12]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[13:15]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[16:31]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[32:33]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[34:45]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[46:51]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[52:70]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[71:72]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[73:87]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[88:93]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[94:114]
+[ 2025-07-19 11:31:18,897 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[115:120]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[121:128]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[129:130]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[131:152]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[153:154]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[155:177]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[178:179]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[180:198]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[199:200]
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-07-19 11:31:18,898 ] python_multipart.multipart - DEBUG - Calling on_end with no data
+[ 2025-07-19 11:31:18,899 ] root - INFO - Entered get_usvisa_data_as_dict method as VehicleData class
+[ 2025-07-19 11:31:18,899 ] root - INFO - Created vehicle data dict
+[ 2025-07-19 11:31:18,899 ] root - INFO - Exited get_vehicle_data_as_dict method as VehicleData class
+[ 2025-07-19 11:31:18,901 ] root - INFO - Entered predict method of VehicleDataClassifier class
+[ 2025-07-19 11:31:18,901 ] botocore.hooks - DEBUG - Changing event name from creating-client-class.iot-data to creating-client-class.iot-data-plane
+[ 2025-07-19 11:31:18,903 ] botocore.hooks - DEBUG - Changing event name from before-call.apigateway to before-call.api-gateway
+[ 2025-07-19 11:31:18,904 ] botocore.hooks - DEBUG - Changing event name from request-created.machinelearning.Predict to request-created.machine-learning.Predict
+[ 2025-07-19 11:31:18,905 ] botocore.hooks - DEBUG - Changing event name from before-parameter-build.autoscaling.CreateLaunchConfiguration to before-parameter-build.auto-scaling.CreateLaunchConfiguration
+[ 2025-07-19 11:31:18,905 ] botocore.hooks - DEBUG - Changing event name from before-parameter-build.route53 to before-parameter-build.route-53
+[ 2025-07-19 11:31:18,905 ] botocore.hooks - DEBUG - Changing event name from request-created.cloudsearchdomain.Search to request-created.cloudsearch-domain.Search
+[ 2025-07-19 11:31:18,906 ] botocore.hooks - DEBUG - Changing event name from docs.*.autoscaling.CreateLaunchConfiguration.complete-section to docs.*.auto-scaling.CreateLaunchConfiguration.complete-section
+[ 2025-07-19 11:31:18,908 ] botocore.hooks - DEBUG - Changing event name from before-parameter-build.logs.CreateExportTask to before-parameter-build.cloudwatch-logs.CreateExportTask
+[ 2025-07-19 11:31:18,908 ] botocore.hooks - DEBUG - Changing event name from docs.*.logs.CreateExportTask.complete-section to docs.*.cloudwatch-logs.CreateExportTask.complete-section
+[ 2025-07-19 11:31:18,908 ] botocore.hooks - DEBUG - Changing event name from before-parameter-build.cloudsearchdomain.Search to before-parameter-build.cloudsearch-domain.Search
+[ 2025-07-19 11:31:18,909 ] botocore.hooks - DEBUG - Changing event name from docs.*.cloudsearchdomain.Search.complete-section to docs.*.cloudsearch-domain.Search.complete-section
+[ 2025-07-19 11:31:18,941 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/boto3/data/s3/2006-03-01/resources-1.json
+[ 2025-07-19 11:31:18,943 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/endpoints.json
+[ 2025-07-19 11:31:18,951 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/sdk-default-configuration.json
+[ 2025-07-19 11:31:18,951 ] botocore.hooks - DEBUG - Event choose-service-name: calling handler <function handle_service_name_alias at 0x110ba5580>
+[ 2025-07-19 11:31:18,962 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/s3/2006-03-01/service-2.json.gz
+[ 2025-07-19 11:31:18,966 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/s3/2006-03-01/service-2.sdk-extras.json
+[ 2025-07-19 11:31:18,974 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/s3/2006-03-01/endpoint-rule-set-1.json.gz
+[ 2025-07-19 11:31:18,976 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/partitions.json
+[ 2025-07-19 11:31:18,976 ] botocore.hooks - DEBUG - Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x110b2a2a0>
+[ 2025-07-19 11:31:18,976 ] botocore.hooks - DEBUG - Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x126ab7600>
+[ 2025-07-19 11:31:18,977 ] botocore.hooks - DEBUG - Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x110b2a020>
+[ 2025-07-19 11:31:18,977 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: environment_service
+[ 2025-07-19 11:31:18,977 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: environment_global
+[ 2025-07-19 11:31:18,977 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: config_service
+[ 2025-07-19 11:31:18,977 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: config_global
+[ 2025-07-19 11:31:18,977 ] botocore.configprovider - DEBUG - No configured endpoint found.
+[ 2025-07-19 11:31:18,998 ] botocore.endpoint - DEBUG - Setting s3 timeout as (60, 60)
+[ 2025-07-19 11:31:19,000 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/_retry.json
+[ 2025-07-19 11:31:19,000 ] botocore.client - DEBUG - Registering retry handlers for service: s3
+[ 2025-07-19 11:31:19,000 ] botocore.utils - DEBUG - Registering S3 region redirector handler
+[ 2025-07-19 11:31:19,000 ] botocore.utils - DEBUG - Registering S3Express Identity Resolver
+[ 2025-07-19 11:31:19,000 ] boto3.resources.factory - DEBUG - Loading s3:s3
+[ 2025-07-19 11:31:19,001 ] botocore.hooks - DEBUG - Event choose-service-name: calling handler <function handle_service_name_alias at 0x110ba5580>
+[ 2025-07-19 11:31:19,001 ] botocore.hooks - DEBUG - Event creating-client-class.s3: calling handler <function add_generate_presigned_post at 0x110b2a2a0>
+[ 2025-07-19 11:31:19,001 ] botocore.hooks - DEBUG - Event creating-client-class.s3: calling handler <function lazy_call.<locals>._handler at 0x126ab7600>
+[ 2025-07-19 11:31:19,001 ] botocore.hooks - DEBUG - Event creating-client-class.s3: calling handler <function add_generate_presigned_url at 0x110b2a020>
+[ 2025-07-19 11:31:19,001 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: environment_service
+[ 2025-07-19 11:31:19,001 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: environment_global
+[ 2025-07-19 11:31:19,001 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: config_service
+[ 2025-07-19 11:31:19,001 ] botocore.configprovider - DEBUG - Looking for endpoint for s3 via: config_global
+[ 2025-07-19 11:31:19,001 ] botocore.configprovider - DEBUG - No configured endpoint found.
+[ 2025-07-19 11:31:19,002 ] botocore.endpoint - DEBUG - Setting s3 timeout as (60, 60)
+[ 2025-07-19 11:31:19,002 ] botocore.client - DEBUG - Registering retry handlers for service: s3
+[ 2025-07-19 11:31:19,002 ] botocore.utils - DEBUG - Registering S3 region redirector handler
+[ 2025-07-19 11:31:19,003 ] botocore.utils - DEBUG - Registering S3Express Identity Resolver
+[ 2025-07-19 11:31:19,003 ] root - INFO - Entered the get_file_object method of SimpleStorageService class
+[ 2025-07-19 11:31:19,003 ] root - INFO - Entered the get_bucket method of SimpleStorageService class
+[ 2025-07-19 11:31:19,003 ] boto3.resources.factory - DEBUG - Loading s3:Bucket
+[ 2025-07-19 11:31:19,003 ] boto3.resources.model - DEBUG - Renaming Bucket attribute name
+[ 2025-07-19 11:31:19,003 ] botocore.hooks - DEBUG - Event creating-resource-class.s3.Bucket: calling handler <function lazy_call.<locals>._handler at 0x126ab7ec0>
+[ 2025-07-19 11:31:19,003 ] root - INFO - Exited the get_bucket method of SimpleStorageService class
+[ 2025-07-19 11:31:19,011 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/s3/2006-03-01/paginators-1.json
+[ 2025-07-19 11:31:19,011 ] botocore.loaders - DEBUG - Loading JSON file: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/botocore/data/s3/2006-03-01/paginators-1.sdk-extras.json
+[ 2025-07-19 11:31:19,011 ] boto3.resources.collection - DEBUG - Calling paginated s3:list_objects with {'Bucket': 'my-model-mlopsproj-sonia', 'Prefix': 'model.pkl'}
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <function set_list_objects_encoding_type_url at 0x110bdc720>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <function validate_bucket_name at 0x110ba7240>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <function remove_bucket_from_url_paths_from_model at 0x110bdd4e0>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <bound method S3RegionRedirectorv2.annotate_request_context of <botocore.utils.S3RegionRedirectorv2 object at 0x1407da3c0>>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <bound method ClientCreator._inject_s3_input_parameters of <botocore.client.ClientCreator object at 0x126af9550>>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <function generate_idempotent_uuid at 0x110ba7060>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-parameter-build.s3.ListObjects: calling handler <function _handle_request_validation_mode_member at 0x110bddbc0>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-endpoint-resolution.s3: calling handler <function customize_endpoint_resolver_builtins at 0x110bdd6c0>
+[ 2025-07-19 11:31:19,011 ] botocore.hooks - DEBUG - Event before-endpoint-resolution.s3: calling handler <bound method S3RegionRedirectorv2.redirect_from_cache of <botocore.utils.S3RegionRedirectorv2 object at 0x1407da3c0>>
+[ 2025-07-19 11:31:19,011 ] botocore.regions - DEBUG - Calling endpoint provider with parameters: {'Bucket': 'my-model-mlopsproj-sonia', 'Region': 'us-east-2', 'UseFIPS': False, 'UseDualStack': False, 'ForcePathStyle': False, 'Accelerate': False, 'UseGlobalEndpoint': False, 'Prefix': 'model.pkl', 'DisableMultiRegionAccessPoints': False, 'UseArnRegion': True}
+[ 2025-07-19 11:31:19,012 ] botocore.regions - DEBUG - Endpoint provider result: https://my-model-mlopsproj-sonia.s3.us-east-2.amazonaws.com
+[ 2025-07-19 11:31:19,012 ] botocore.regions - DEBUG - Selecting from endpoint provider's list of auth schemes: "sigv4". User selected auth scheme is: "None"
+[ 2025-07-19 11:31:19,012 ] botocore.regions - DEBUG - Selected auth type "v4" as "v4" with signing context params: {'region': 'us-east-2', 'signing_name': 's3', 'disableDoubleEncoding': True}
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-call.s3.ListObjects: calling handler <function add_expect_header at 0x110ba7600>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-call.s3.ListObjects: calling handler <bound method S3ExpressIdentityResolver.apply_signing_cache_key of <botocore.utils.S3ExpressIdentityResolver object at 0x1407da510>>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-call.s3.ListObjects: calling handler <function add_recursion_detection_header at 0x110ba6b60>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-call.s3.ListObjects: calling handler <function inject_api_version_header_if_needed at 0x110bdcb80>
+[ 2025-07-19 11:31:19,012 ] botocore.endpoint - DEBUG - Making request for OperationModel(name=ListObjects) with params: {'url_path': '', 'query_string': {'prefix': 'model.pkl', 'encoding-type': 'url'}, 'method': 'GET', 'headers': {'User-Agent': 'Boto3/1.39.9 md/Botocore#1.39.9 ua/2.1 os/macos#24.5.0 md/arch#arm64 lang/python#3.13.3 md/pyimpl#CPython m/b,D,Z,C cfg/retry-mode#legacy Botocore/1.39.9 Resource'}, 'body': b'', 'auth_path': '/my-model-mlopsproj-sonia/', 'url': 'https://my-model-mlopsproj-sonia.s3.us-east-2.amazonaws.com/?prefix=model.pkl&encoding-type=url', 'context': {'client_region': 'us-east-2', 'client_config': <botocore.config.Config object at 0x1407d0690>, 'has_streaming_input': False, 'auth_type': 'v4', 'unsigned_payload': None, 'auth_options': ['aws.auth#sigv4'], 'encoding_type_auto_set': True, 's3_redirect': {'redirected': False, 'bucket': 'my-model-mlopsproj-sonia', 'params': {'Bucket': 'my-model-mlopsproj-sonia', 'Prefix': 'model.pkl', 'EncodingType': 'url'}}, 'input_params': {'Bucket': 'my-model-mlopsproj-sonia', 'Prefix': 'model.pkl'}, 'signing': {'region': 'us-east-2', 'signing_name': 's3', 'disableDoubleEncoding': True}, 'endpoint_properties': {'authSchemes': [{'disableDoubleEncoding': True, 'name': 'sigv4', 'signingName': 's3', 'signingRegion': 'us-east-2'}]}}}
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event request-created.s3.ListObjects: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1407d82f0>>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event choose-signer.s3.ListObjects: calling handler <function set_operation_specific_signer at 0x110ba6de0>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-sign.s3.ListObjects: calling handler <function remove_arn_from_signing_path at 0x110bdd620>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-sign.s3.ListObjects: calling handler <function _set_extra_headers_for_unsigned_request at 0x110bddc60>
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event before-sign.s3.ListObjects: calling handler <bound method S3ExpressIdentityResolver.resolve_s3express_identity of <botocore.utils.S3ExpressIdentityResolver object at 0x1407da510>>
+[ 2025-07-19 11:31:19,012 ] botocore.auth - DEBUG - Calculating signature using v4 auth.
+[ 2025-07-19 11:31:19,012 ] botocore.auth - DEBUG - CanonicalRequest:
+GET
+/
+encoding-type=url&prefix=model.pkl
+host:my-model-mlopsproj-sonia.s3.us-east-2.amazonaws.com
+x-amz-content-sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+x-amz-date:20250719T183119Z
+
+host;x-amz-content-sha256;x-amz-date
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[ 2025-07-19 11:31:19,012 ] botocore.auth - DEBUG - StringToSign:
+AWS4-HMAC-SHA256
+20250719T183119Z
+20250719/us-east-2/s3/aws4_request
+665d50e44e45f175a695650344394d4abf463554803c4367bedc0e1a4f8f1c7e
+[ 2025-07-19 11:31:19,012 ] botocore.auth - DEBUG - Signature:
+19e8cf496eefe8f05ffcebd42f8dc795dab2b0a19718ba24e35e60e33349833a
+[ 2025-07-19 11:31:19,012 ] botocore.hooks - DEBUG - Event request-created.s3.ListObjects: calling handler <bound method UserAgentString.rebuild_and_replace_user_agent_handler of <botocore.useragent.UserAgentString object at 0x1407d1590>>
+[ 2025-07-19 11:31:19,013 ] botocore.hooks - DEBUG - Event request-created.s3.ListObjects: calling handler <function add_retry_headers at 0x110bdd440>
+[ 2025-07-19 11:31:19,013 ] botocore.endpoint - DEBUG - Sending http request: <AWSPreparedRequest stream_output=False, method=GET, url=https://my-model-mlopsproj-sonia.s3.us-east-2.amazonaws.com/?prefix=model.pkl&encoding-type=url, headers={'User-Agent': b'Boto3/1.39.9 md/Botocore#1.39.9 ua/2.1 os/macos#24.5.0 md/arch#arm64 lang/python#3.13.3 md/pyimpl#CPython m/b,D,Z,C cfg/retry-mode#legacy Botocore/1.39.9 Resource', 'X-Amz-Date': b'20250719T183119Z', 'X-Amz-Content-SHA256': b'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', 'Authorization': b'AWS4-HMAC-SHA256 Credential=aD9lnmO+3FB3jugqHtiCRgElLgBa3kQWlVU63CA//20250719/us-east-2/s3/aws4_request, SignedHeaders=host;x-amz-content-sha256;x-amz-date, Signature=19e8cf496eefe8f05ffcebd42f8dc795dab2b0a19718ba24e35e60e33349833a', 'amz-sdk-invocation-id': b'35068708-2389-41e7-a07f-bdb13cd693bd', 'amz-sdk-request': b'attempt=1'}>
+[ 2025-07-19 11:31:19,013 ] botocore.httpsession - DEBUG - Certificate path: /Users/soniakashyap/Documents/YT-MLops-Proj1/venv/lib/python3.13/site-packages/certifi/cacert.pem
+[ 2025-07-19 11:31:19,013 ] urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): my-model-mlopsproj-sonia.s3.us-east-2.amazonaws.com:443
+[ 2025-07-19 11:31:21,131 ] urllib3.connectionpool - DEBUG - https://my-model-mlopsproj-sonia.s3.us-east-2.amazonaws.com:443 "GET /?prefix=model.pkl&encoding-type=url HTTP/1.1" 400 None
+[ 2025-07-19 11:31:21,132 ] botocore.hooks - DEBUG - Event before-parse.s3.ListObjects: calling handler <function _handle_200_error at 0x110bdd9e0>
+[ 2025-07-19 11:31:21,133 ] botocore.hooks - DEBUG - Event before-parse.s3.ListObjects: calling handler <function handle_expires_header at 0x110bdd800>
+[ 2025-07-19 11:31:21,133 ] botocore.parsers - DEBUG - Response headers: {'x-amz-bucket-region': 'us-east-2', 'x-amz-request-id': 'M19JJ0DDT7SGHGF8', 'x-amz-id-2': 'mnEjLE1/hecY8et/imhg/lzEiMxe2pH4jg17t6HEoUhnLLOksXzbIyw3D8RPs+aQsqZBoA1DGRLiIqrNHyY1MA==', 'Content-Type': 'application/xml', 'Transfer-Encoding': 'chunked', 'Date': 'Sat, 19 Jul 2025 18:31:20 GMT', 'Connection': 'close', 'Server': 'AmazonS3'}
+[ 2025-07-19 11:31:21,133 ] botocore.parsers - DEBUG - Response body:
+b'<?xml version="1.0" encoding="UTF-8"?>\n<Error><Code>AuthorizationHeaderMalformed</Code><Message>The authorization header is malformed; the Credential is mal-formed; expecting "&lt;YOUR-AKID&gt;/YYYYMMDD/REGION/SERVICE/aws4_request".</Message><RequestId>M19JJ0DDT7SGHGF8</RequestId><HostId>mnEjLE1/hecY8et/imhg/lzEiMxe2pH4jg17t6HEoUhnLLOksXzbIyw3D8RPs+aQsqZBoA1DGRLiIqrNHyY1MA==</HostId></Error>'
+[ 2025-07-19 11:31:21,138 ] botocore.hooks - DEBUG - Event needs-retry.s3.ListObjects: calling handler <function _update_status_code at 0x110bddb20>
+[ 2025-07-19 11:31:21,138 ] botocore.hooks - DEBUG - Event needs-retry.s3.ListObjects: calling handler <botocore.retryhandler.RetryHandler object at 0x1407da270>
+[ 2025-07-19 11:31:21,138 ] botocore.retryhandler - DEBUG - No retry needed.
+[ 2025-07-19 11:31:21,139 ] botocore.hooks - DEBUG - Event needs-retry.s3.ListObjects: calling handler <bound method S3RegionRedirectorv2.redirect_from_error of <botocore.utils.S3RegionRedirectorv2 object at 0x1407da3c0>>
+[ 2025-07-19 11:31:21,139 ] botocore.hooks - DEBUG - Event after-call.s3.ListObjects: calling handler <function decode_list_object at 0x110bdc7c0>
+[ 2025-07-19 11:31:21,139 ] root - ERROR - Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [106]: An error occurred (AuthorizationHeaderMalformed) when calling the ListObjects operation: The authorization header is malformed; the Credential is mal-formed; expecting "<YOUR-AKID>/YYYYMMDD/REGION/SERVICE/aws4_request".
+[ 2025-07-19 11:31:21,139 ] root - ERROR - Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [128]: Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [106]: An error occurred (AuthorizationHeaderMalformed) when calling the ListObjects operation: The authorization header is malformed; the Credential is mal-formed; expecting "<YOUR-AKID>/YYYYMMDD/REGION/SERVICE/aws4_request".
+[ 2025-07-19 11:31:21,140 ] root - ERROR - Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/entity/s3_estimator.py] at line number [63]: Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [128]: Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [106]: An error occurred (AuthorizationHeaderMalformed) when calling the ListObjects operation: The authorization header is malformed; the Credential is mal-formed; expecting "<YOUR-AKID>/YYYYMMDD/REGION/SERVICE/aws4_request".
+[ 2025-07-19 11:31:21,140 ] root - ERROR - Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/pipline/prediction_pipeline.py] at line number [105]: Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/entity/s3_estimator.py] at line number [63]: Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [128]: Error occurred in python script: [/Users/soniakashyap/Documents/YT-MLops-Proj1/src/cloud_storage/aws_storage.py] at line number [106]: An error occurred (AuthorizationHeaderMalformed) when calling the ListObjects operation: The authorization header is malformed; the Credential is mal-formed; expecting "<YOUR-AKID>/YYYYMMDD/REGION/SERVICE/aws4_request".

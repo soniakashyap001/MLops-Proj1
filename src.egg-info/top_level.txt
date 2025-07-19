@@ -1,0 +1,8 @@
+artifact
+config
+logs
+notebook
+src
+static
+templates
+venv
